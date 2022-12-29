@@ -14,7 +14,7 @@ StreamPay is dedicated to revolutionize the payment industry by creating a payme
 
 ## Architecture
 
-StreamPay is a complete payment infrastructure that leverages the benefits of web3 and blockchain technology. 
+StreamPay is a complete payment infrastructure that leverages the benefits of web3 and blockchain technologies. 
 
 #### Cross-Border Payment Solutions
 
