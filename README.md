@@ -1,10 +1,12 @@
 # Stream Protocol - Revolutionizing The Payment Industry
 
-StreamPay is set to revolutionize Online Payment Industry with its web3 payment infrastructure. StreamPay infrastructure is designed to provide high efficiency, transparency, and fairness for both the merchants and the users. They currently developing StreamPay VISA Debit Card that will be accepted globally, this will allow cryptocurrency holders to spend their coins on everyday purchases just like with traditional currency.
+Revolutionizing The Online Payment Industry: Stream Protocol (DAO) is set to revolutionize the online payment industry with its cryptocurrency payment infrastructure. StreamPay infrastructure is designed to provide high efficiency, transparency, and fairness for both the merchants and the users. They are currently developing StreamPay VISA Debit Cards that will be accepted globally, this will allow cryptocurrency holders to spend their coins on everyday purchases just like with traditional fiat currency.
 
 ## Cross-Border Payment Solutions
 
-StreamPay offers solutions for businessess and online to offline payment industry, to create needed by e-Commerce, NFT, and virtual goods marketplaces, games and other industries. 
+StreamPay is a revolutionary web3 payment infrastructure and a subsidiary of Stream Protocol Ltd. StreamPay strives to standardize the web3 payment ecosystem, provide a simplified payment gateway, and build a trusted, decentralized, transparent, and open-source transaction platform for mass adoption.
+
+Stream Protocol´s StreamPay "Decentralized Applications" offers solutions for businessess and online to offline payment industry, to create needed by e-Commerce, NFT, and virtual goods marketplaces, games and other industries. 
 
 ## Mission
 
