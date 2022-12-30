@@ -6,7 +6,7 @@ Revolutionizing The Online Payment Industry: Stream Protocol (DAO) is set to rev
 
 StreamPay is a revolutionary web3 payment infrastructure and a subsidiary of Stream Protocol Ltd. StreamPay strives to standardize the web3 payment ecosystem, provide a simplified payment gateway, and build a trusted, decentralized, transparent, and open-source transaction platform for mass adoption.
 
-Stream Protocol´s StreamPay "Decentralized Applications" offers solutions for businessess and online to offline payment industry, to create needed by e-Commerce, NFT, and virtual goods marketplaces, games and other industries. 
+Stream Protocol´s StreamPay "Decentralized Applications" offers solutions for businessess and online to offline payment industry, to create needed by e-Commerce based on blockchain, and web3 tehnology, NFT, and virtual goods marketplaces, games and other industries. 
 
 ## Mission
 
