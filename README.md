@@ -1,4 +1,4 @@
-# Stream Protocol - Revolutionizing The Payment Industry
+# Stream Protocol
 
 Stream Protocol (DAO) is set to revolutionize the online payment industry with its cryptocurrency payment infrastructure. StreamPay infrastructure is designed to provide high efficiency, transparency, and fairness for both the merchants and the users. They are currently developing StreamPay VISA Debit Cards that will be accepted globally, this will allow cryptocurrency holders to spend their coins on everyday purchases just like with traditional fiat currency.
 
