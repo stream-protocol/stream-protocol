@@ -33,3 +33,13 @@ StreamPay is dedicated to revolutionizing the payment industry by creating a pay
 StreamPay is a complete payment infrastructure that leverages the benefits of web3 and blockchain technologies. 
 
 - Stream Protocol´s StreamPay is an open, free-to-use payments framework built on Solana blockchain — the world’s most performant DeFi - NFT ecosystem. 
+
+## To Support Stream Protocol, and StreamPay ecosystem developments
+
+Stream Protocol´s Token Sale & Management Platform is full functional dashboard for manage our token sales. Stream Token Sale Platform helps our contributors/investors to purchase Stream tokens easily, and investor can manage them.
+
+Join Us: https://invest.streamprotocol.org
+
+### Caution:
+
+Stream Token Sale application does not send actual Stream tokens (smart contract) to contributors/investors wallet. We have to send actual tokens after or during token sales. 
