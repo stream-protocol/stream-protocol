@@ -69,13 +69,16 @@ Invest in Stream Protocol's cryptocurrency: You can buy and hold Stream Protocol
 Spread the word: Share information about Stream Protocol and StreamPay with your friends, family, and colleagues.
 It is important to note that before investing in any project, it's crucial to do your own research to understand the project, its goals, and the risks involved.
 
+#### How To join a Stream Team?
 
-## To Support Stream Protocol, and StreamPay ecosystem development
+Just send message the Stream Protocol team leader or a member of the team to inquire about joining.
+
+contact@streamprotocol.org
+
+## To Support Stream Protocol, or StreamPay ecosystem development
 
 Stream Protocol´s Token Sale & Management Platform is full functional dashboard for manage our token sales. Stream Token Sale Platform helps our contributors/investors to purchase Stream tokens easily, and investor can manage them.
 
-Join Us: https://invest.streamprotocol.org
-
 ### Caution:
 
-Stream Token Sale application does not send actual Stream tokens (smart contract) to contributors/investors wallet. We have to send actual tokens after or during token sales. 
+Stream Token Sale application does not send actual Stream tokens to contributors/investors wallet. We have to send actual tokens after or during token sales/purchase.
